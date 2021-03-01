@@ -20,7 +20,7 @@ const CarItem = (props) => {
           type="primary"
           content="Custom order"
           onPress={() => {
-            console.warn("primary button was pressed");
+            console.warn("custom order button was pressed");
           }}
         />
         <StyledButton
